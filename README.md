@@ -1,2 +1,3 @@
 # actividad1
-hola
+Ricardo Daniel De León Cruz
+Rebeca Marcela Hermamdez Amaya
